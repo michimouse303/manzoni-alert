@@ -8,4 +8,4 @@ crons = ["*/15 * * * *"]
 [[d1_databases]]
 binding = "DB"
 database_name = "manzoni-db"
-database_id = a955fed9-352c-4dd5-a3f3-3edfa3eb2d87
+database_id = "a955fed9-352c-4dd5-a3f3-3edfa3eb2d87"
